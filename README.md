@@ -1,2 +1,2 @@
 # machine_learning
-Machine learning homeworks @ IST
+Machine Learning (Aprendizagem) homeworks @ IST
